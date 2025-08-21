@@ -1,6 +1,12 @@
-# Important
+#Description
 
-Issues of this repository are tracked on https://github.com/aspnetboilerplate/aspnetboilerplate. Please create your issues on https://github.com/aspnetboilerplate/aspnetboilerplate/issues.
+This solution serves as a template for quickly creating APIs using the Application Boilerplate (ABP) architecture.
+After cloning the solution, simply run it and open the following URL in your browser to access the sample API:
+
+http://localhost:62114/api/services/app/Employee/GetAllEmployees
+
+For more details on the ABP architecture, please refer to the official documentation:
+https://aspnetboilerplate.com/Pages/Documents
 
 # ASP.NET Core & EntityFramework Core Based Startup Template
 
